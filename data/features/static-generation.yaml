@@ -1,0 +1,4 @@
+weight: 1
+name: "Static Site Generation"
+icon: "fa fa-desktop"
+description: "Upload your Hugo project, or create a new one from scratch or from our premium templates. Sit back and enjoy lightning fast build times and freedom from WordPress security and stability anxiety."

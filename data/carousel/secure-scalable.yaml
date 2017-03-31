@@ -1,0 +1,10 @@
+weight: 4
+title: "Secure and scalabe"
+description: >
+  <ul class="list-style-none">
+    <li>Your site won't get hacked</li>
+    <li>Low attack surface area (static pages)</li>
+    <li>You can deploy anywhere in the Cloud, no infrastructure needed</li>
+  </ul>
+image: "img/carousel/marketing-horse.png"
+cta: "learn more"

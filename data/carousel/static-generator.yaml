@@ -1,0 +1,11 @@
+weight: 2
+title: "Static site generation"
+description: >
+  <ul class="list-style-none">
+     <li>All the features of a CMS without the headaches</li>
+     <li>Lightning fast build times</li>
+     <li>GitHub integration</li>
+     <li>Marketing automation integration</li>
+   </ul>
+image: "img/carousel/marketing-letters.png"
+cta: "Why static?"
